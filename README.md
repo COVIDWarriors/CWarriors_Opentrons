@@ -17,7 +17,7 @@ The main contributors have developed some multipurpouse coding methodology which
 - git submodule init
 - git submodule update
 - have a look in README.md in the submodules directory
-- git checkout <your branch>
+- git checkout ***your branch***
 
 --------------
 A truly sincere recognition for their time, support and contribution to:
