@@ -1,3 +1,6 @@
 [submodule "covid19_protocols"]
 	path = covid19_protocols
 	url = git@github.com:COVIDWarriors/covid19_protocols.git
+[submodule "CWarriors_labware"]
+	path = CWarriors_labware
+	url = git@github.com:COVIDWarriors/CWarriors_labware.git
