@@ -1,6 +1,6 @@
 [submodule "CWarriors_labware"]
 	path = CWarriors_labware
-	url = git@github.com:COVIDWarriors/CWarriors_labware.git
+	url = https://github.com/COVIDWarriors/CWarriors_labware.git
 [submodule "CWarriors_Covid19"]
 	path = CWarriors_Covid19
-	url = git@github.com:COVIDWarriors/CWarriors_Covid19.git
+	url = https://github.com/COVIDWarriors/CWarriors_Covid19.git
