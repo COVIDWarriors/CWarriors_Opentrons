@@ -4,6 +4,7 @@ Current global pandemic due to the SARS-COVID19 have struggled and pushed the li
 
 The NGO ***COVIDWarriors*** coordinated a donation to multiple hospitals in Spain to automate the PCR testing of SARS-CoV2 by suppplying them with opensource programmable robots  developed by the US company ***Opentrons***. They also collaborated with the deployment and COVID19 protocols programming.
 
+some works copylefted by [CDB clinic] (https://github.com/CDB-coreBM/covid19clinic)
 
 --------------
 # How to work on this repository
