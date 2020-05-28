@@ -10,12 +10,11 @@ based on a prior work  copylefted by [CDB clinic](https://github.com/CDB-coreBM/
 # How to work on this repository
 
 
-- Clone this repository.
-
+- fork of this repository (keep it public or private as you prefer).
+- clone your fork
 - git submodule init
 - git submodule update
 - have a look in README.md in the submodules directory
-- git checkout ***your branch***
 
 --------------
 A truly sincere recognition for their time, support and contribution to:
